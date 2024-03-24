@@ -1,10 +1,18 @@
-# presentacion-
+# System.out.println("I'm Marcos Silva 🧔");
+## About me
+~~~
+- Soy una persona sociable, colaborador, responsable y autodidacta.
+- Soy de zona sur Burzaco, Actualmente estoy haciendo cursos a la par de la carrera
+  como Java Developer y tambien Ingles.
+- Este es mi 3re año  en esta hermosa carrera, coming soon Engeneer.
+~~~
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+## Hobbies
+- Me gusta la música 🎵
+- Tocar la guitarra es gooooood 🎸
+- Obvio el futbol(fulvo) 
+- Sin duda picar código a dos manos.
 
-Ya saben usar git!
+## Coffee
+![cafe-do-programador-programador](https://github.com/pdepviernestm/2024-presentacion-MarcosSilva2001/assets/87036157/3b600beb-0fc9-46a0-ade3-3d61789a0ec3)
+
