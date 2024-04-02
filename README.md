@@ -7,8 +7,8 @@
 - Este es mi 3re año  en esta hermosa carrera, coming soon Engeneer.
 ~~~
 
-## Hobbies
-- Me gusta la música 🎵
+## Hobbies & Gustos 
+- La música sana, género preferido (POP)🎵
 - Tocar la guitarra es gooooood 🎸
 - Obvio el futbol(fulvo) 
 - Sin duda picar código a dos manos.
